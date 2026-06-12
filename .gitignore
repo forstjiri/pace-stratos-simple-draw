@@ -1,0 +1,7 @@
+bin/
+gen/
+obj/
+*.apk
+*.apk.idsig
+*.png
+.DS_Store
