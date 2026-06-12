@@ -2,6 +2,8 @@
 
 Small fullscreen drawing app for Amazfit Pace and Stratos.
 
+![App screenshot](photo.png)
+
 ## Features
 
 - launcher-visible app icon

@@ -4,4 +4,5 @@ obj/
 *.apk
 *.apk.idsig
 *.png
+!photo.png
 .DS_Store
